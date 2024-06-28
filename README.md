@@ -1,7 +1,7 @@
-REACT_APPLICATION_NOTES_APP 
+#REACT_APPLICATION_NOTES_APP 
 
-to run in local device:
-steps:
+To Run in Local Device:
+Steps to follow:
 1. Download zip-File and Extract them.
 2. Open the folder in VsCode or any other IDE.
 3. open New Terminal and run npm i
