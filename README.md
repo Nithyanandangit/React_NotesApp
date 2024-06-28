@@ -2,7 +2,7 @@
 
 To Run in Local Device:
 Steps to follow:
-1. Download zip-File and Extract them.
+1. Download zip-Folder and Extract them.
 2. Open the folder in VsCode or any other IDE.
 3. open New Terminal and run npm i
 			-> this will install all the required files and modules.
